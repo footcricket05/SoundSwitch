@@ -1,1 +1,1 @@
-# Clap Switch Circuit For Home Automation (Analog and Digital Electronics Project)
+# **Clap Switch Circuit For Home Automation (Analog and Digital Electronics Project)**
