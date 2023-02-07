@@ -19,3 +19,6 @@ This is a homemade clap switch control circuit with a relay. Therefore, any home
 10. 5V DC Supply
 11. Breadboard
 This clap detector or clap activated switch can be used for home automation to control light/fan with the clap. This DIY clap switch is one of the most useful CD4017 application circuits.
+
+## Circuit Diagram
+![image](https://user-images.githubusercontent.com/93007427/217160566-3ff47a54-0f8c-424d-8326-a8985e3a3f06.png)
