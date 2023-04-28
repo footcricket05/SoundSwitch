@@ -30,7 +30,7 @@ The circuit can be built on a breadboard using the listed components and can be 
 
 
 
-#$ License
+## License
 This project is licensed under the `MIT License`.
 
 
