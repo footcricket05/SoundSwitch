@@ -30,6 +30,6 @@ The circuit can be built on a breadboard using the listed components and can be 
 
 This project is licensed under the `MIT License`.
 
-## Contribution 🤝
+## Contributing 🤝
 
-Contributions to this project are welcome. To contribute, please create a pull request with your proposed changes or contact the project owner for more information.
+As this repository only contains a single PDF file, there is no scope for external contributions.
